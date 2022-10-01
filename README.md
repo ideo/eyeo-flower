@@ -18,7 +18,7 @@ Select Tools → Board → IDEO SAMD → Eyeo Flower
 Select correct Port in Tools → Port (“/dev/cu.usbmodem…” on OSX)
 
 <h2>To make your own custom flower shape:</h2>
-https://observablehq.com/@jftesser/eyeo-flower
+[Online tool for petal shape generation](https://observablehq.com/@jftesser/eyeo-flower)
 
 For the petal material we use [translucent Yupo:](https://www.amazon.com/dp/B004XC7CE8?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
