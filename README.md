@@ -26,4 +26,5 @@ For the petal material we use [translucent Yupo:](https://www.amazon.com/dp/B004
 Cut on a Cricut machine with the setting "Light Cardstock - 65lb - 176GSM"
 
 <h2>Parts</h2>
+
 [The gooseneck USB cables](https://metaltube.en.alibaba.com/product/1600324362930-827664414/Fast_Charging_Phone_Cable_2_4A_USB_Lighting_Type_C_Micro_USB_with_Adjustable_Flexible_Gooseneck_Arm_Phone_Stand_Holder.html?spm=a2700.shop_index.111720.2.137c2221o8sztU) Make sure to select the USB C option!
