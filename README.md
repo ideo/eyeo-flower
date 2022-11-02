@@ -37,3 +37,5 @@ The gerber, CPL and BOM files are formatted for PCB and assembly services from J
 We used 8x of these ["Cheese Head M3 Screws"](https://www.mcmaster.com/91800A113/) in the broaching nuts. They are narrower than the nuts, so they won't contact each other, they also have a nice flat bottom surface to ensure connection with the nitinol.
 
 You will need some standard thru hole resistors to limit the current the goes to the wire. With our petal shape we end up with about 13cm of wire going from post to post. Our wire has 126Ω/m resistance and rated current maximum of 200mA. So our wire is 126⋅0.13 = 16.38Ω. To calculate the resistance we want at 5V max voltage, we use Ohm’s law to get V/I = R, 5/0.2=25Ω. We selected 10Ω resistors to put in series with the wire to make sure we never deliver too much current to the wire. 
+
+[The pogo pins we used for our board programmer jig are these](https://www.amazon.com/gp/product/B08CD7FNK8)
