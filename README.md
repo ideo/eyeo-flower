@@ -26,8 +26,7 @@ For the petal material we use [translucent Yupo:](https://www.amazon.com/dp/B004
 Cut on a Cricut machine with the setting "Light Cardstock - 65lb - 176GSM"
 
 <h2>Parts and Assembly</h2>
-The gerber, CPL and BOM files are formatted for PCB and assembly services from JLCPCB. So you should be able to just send them the boards.  Last time I sent them out, I had to rework the TPS63070 (not sure why) and JLCPCB had a few issues with part placement packing around that area.  I hand assembled a few of the parts they wouldn't do, and hot-air reworked some of the TPS63070 chips and the boards worked fine.
-
+The gerber, CPL and BOM files are formatted for PCB and assembly services from JLCPCB. So you should be able to just send them the boards.  Last time I sent them out, I had to rework the TPS63070 (not sure why) and JLCPCB had a few issues with part placement packing around that area.  I hand assembled a few of the parts they wouldn't do, and hot-air reworked some of the TPS63070 chips and the boards worked fine.  
 
 [The gooseneck USB cables](https://metaltube.en.alibaba.com/product/1600324362930-827664414/Fast_Charging_Phone_Cable_2_4A_USB_Lighting_Type_C_Micro_USB_with_Adjustable_Flexible_Gooseneck_Arm_Phone_Stand_Holder.html?spm=a2700.shop_index.111720.2.137c2221o8sztU) Make sure to select the USB C option!
 
