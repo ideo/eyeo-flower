@@ -22815,8 +22815,7 @@ Based on the previous library ind-a.lbr&lt;p&gt;
 <part name="P+13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="U$2" library="Microphone" deviceset="B4013AM423" device="">
 <attribute name="LCSC_PART" value="C233794"/>
-<attribute name="NUM" value="B4013AM423-008
-"/>
+<attribute name="NUM" value="B4013AM423-008 "/>
 </part>
 <part name="GND20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND23" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -23002,8 +23001,7 @@ Based on the previous library ind-a.lbr&lt;p&gt;
 <wire x1="195.58" y1="137.16" x2="195.58" y2="172.72" width="0.8128" layer="97"/>
 <wire x1="142.24" y1="119.38" x2="142.24" y2="106.68" width="0.8128" layer="97"/>
 <wire x1="142.24" y1="106.68" x2="142.24" y2="-20.32" width="0.8128" layer="97"/>
-<wire x1="142.24" y1="-20.32" x2="73.66" y2="-20.32" width="0.8128" layer="97"/>
-<wire x1="73.66" y1="-20.32" x2="71.12" y2="-20.32" width="0.8128" layer="97"/>
+<wire x1="142.24" y1="-20.32" x2="71.12" y2="-20.32" width="0.8128" layer="97"/>
 <wire x1="71.12" y1="-20.32" x2="71.12" y2="83.82" width="0.8128" layer="97"/>
 <wire x1="71.12" y1="83.82" x2="86.36" y2="99.06" width="0.8128" layer="97"/>
 <wire x1="86.36" y1="99.06" x2="86.36" y2="142.24" width="0.8128" layer="97"/>
@@ -23169,13 +23167,13 @@ Based on the previous library ind-a.lbr&lt;p&gt;
 <attribute name="VALUE" x="133.8326" y="138.4046" size="2.0828" layer="96" ratio="6" rot="SR0"/>
 <attribute name="LCSC_PART" x="144.78" y="142.24" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="SWC" gate="G$1" x="50.8" y="55.88" smashed="yes" rot="R90">
-<attribute name="NAME" x="63.246" y="56.896" size="1.778" layer="95" rot="R180"/>
-<attribute name="TP_SIGNAL_NAME" x="53.34" y="57.15" size="1.778" layer="97" rot="R90"/>
+<instance part="SWC" gate="G$1" x="53.34" y="55.88" smashed="yes" rot="R90">
+<attribute name="NAME" x="65.786" y="56.896" size="1.778" layer="95" rot="R180"/>
+<attribute name="TP_SIGNAL_NAME" x="55.88" y="57.15" size="1.778" layer="97" rot="R90"/>
 </instance>
-<instance part="SWD" gate="G$1" x="50.8" y="53.34" smashed="yes" rot="R90">
-<attribute name="NAME" x="63.246" y="54.102" size="1.778" layer="95" rot="R180"/>
-<attribute name="TP_SIGNAL_NAME" x="53.34" y="54.61" size="1.778" layer="97" rot="R90"/>
+<instance part="SWD" gate="G$1" x="53.34" y="53.34" smashed="yes" rot="R90">
+<attribute name="NAME" x="65.786" y="54.102" size="1.778" layer="95" rot="R180"/>
+<attribute name="TP_SIGNAL_NAME" x="55.88" y="54.61" size="1.778" layer="97" rot="R90"/>
 </instance>
 <instance part="GND14" gate="1" x="86.36" y="180.34" smashed="yes">
 <attribute name="VALUE" x="83.82" y="177.8" size="1.778" layer="96"/>
@@ -23951,16 +23949,18 @@ Based on the previous library ind-a.lbr&lt;p&gt;
 <pinref part="R7" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$9" class="0">
+<net name="SWC" class="0">
 <segment>
 <pinref part="U1" gate="A" pin="PA30"/>
 <pinref part="SWC" gate="G$1" pin="TP"/>
+<wire x1="50.8" y1="55.88" x2="48.26" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$10" class="0">
+<net name="SWD" class="0">
 <segment>
 <pinref part="U1" gate="A" pin="PA31"/>
 <pinref part="SWD" gate="G$1" pin="TP"/>
+<wire x1="50.8" y1="53.34" x2="48.26" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$11" class="0">

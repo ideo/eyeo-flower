@@ -2253,7 +2253,7 @@ Based on the previous library ind-a.lbr&lt;p&gt;
 <element name="U$1" library="USB" package="918-418K2022Y40000" value="USB-C" x="27" y="27" smashed="yes">
 <attribute name="LCSC_PART" value="C168704" x="27" y="27" size="1.778" layer="27" display="off"/>
 </element>
-<element name="U3" library="PMIC-LDO-XC6206P332MR-G_SOT23_" package="SOT-23" value="PMIC-LDO-XC6206P332MR-G(SOT23)" x="33" y="22.75" smashed="yes">
+<element name="U3" library="PMIC-LDO-XC6206P332MR-G_SOT23_" package="SOT-23" value="XC6206P332MR-G" x="33" y="22.75" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="33" y="22.75" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value=" Linear Voltage Regulator IC Positive Fixed 1 Output 200mA SOT-23 " x="33" y="22.75" size="1.778" layer="27" display="off"/>
 <attribute name="LCSC_PART" value="C5446" x="33" y="22.75" size="1.778" layer="27" display="off"/>
@@ -2490,6 +2490,8 @@ Based on the previous library ind-a.lbr&lt;p&gt;
 </element>
 <element name="U$2" library="Microphone" package="B4013AM423" value="B4013AM423" x="16.75" y="32.5" smashed="yes">
 <attribute name="LCSC_PART" value="C233794" x="16.75" y="32.5" size="1.778" layer="27" display="off"/>
+<attribute name="NUM" value="B4013AM423-008
+" x="16.75" y="32.5" size="1.778" layer="27" display="off"/>
 </element>
 <element name="LED3" library="WS2812B" package="WS2812B" value="WS2812B5050" x="15" y="6" smashed="yes" rot="MR210">
 <attribute name="AVAILABILITY" value="Not in stock" x="15" y="6" size="1.778" layer="28" rot="MR210" display="off"/>
